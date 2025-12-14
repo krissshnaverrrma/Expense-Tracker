@@ -45,8 +45,8 @@ A professional, offline-first personal finance application built with **React Na
 ## 👤 Author
 
 **Krishna Verma**
-* LinkedIn: [linkedin.com/in/KrishnaVerma](https://linkedin.com)
-* GitHub: [github.com/KrishnaVerma](https://github.com)
+* LinkedIn: [https://www.linkedin.com/in/krishna-verma-43aa85315/](https://www.linkedin.com/in/krishna-verma-43aa85315/)
+* GitHub: [https://github.com/krissshnaverrrma](https://github.com/krissshnaverrrma)
 
 ## 📄 License
 
