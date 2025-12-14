@@ -22,7 +22,7 @@ A professional, offline-first personal finance application built with **React Na
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/expense-tracker.git](https://github.com/your-username/expense-tracker.git)
+    git clone [https://github.com/krissshnaverrrma/Expense-Tracker.git](https://github.com/krissshnaverrrma/Expense-Tracker.git)
     cd expense-tracker
     ```
 
